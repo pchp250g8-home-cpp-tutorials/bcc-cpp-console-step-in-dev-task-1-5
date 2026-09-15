@@ -1,0 +1,7 @@
+Vova decided to read a book. He reads K pages every day. There are N pages left in the book.
+How many days will this book last Vova? Print the string "Days:(number)".
+First enter K, then N.
+
+Вова решил читать книгу. Каждый день он читает K страниц. В книге осталось N страниц.
+На сколько дней Вове хватит этой книги? Выведи строку "Days:(количество)".
+Сначала вводится K потом N.
